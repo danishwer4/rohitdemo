@@ -1,3 +1,3 @@
 # rohitdemo
 First git Repository
-Auther <br>Danishwer Kumar Verma<br>
+Auther <br>Danishwer Kumar Verma <br>
